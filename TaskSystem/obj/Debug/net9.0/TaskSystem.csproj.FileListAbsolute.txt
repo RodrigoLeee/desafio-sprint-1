@@ -1,0 +1,14 @@
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\bin\Debug\net9.0\TaskSystem.exe
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\bin\Debug\net9.0\TaskSystem.deps.json
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\bin\Debug\net9.0\TaskSystem.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\bin\Debug\net9.0\TaskSystem.dll
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\bin\Debug\net9.0\TaskSystem.pdb
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\obj\Debug\net9.0\TaskSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\obj\Debug\net9.0\TaskSystem.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\obj\Debug\net9.0\TaskSystem.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\obj\Debug\net9.0\TaskSystem.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\obj\Debug\net9.0\TaskSystem.dll
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\obj\Debug\net9.0\refint\TaskSystem.dll
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\obj\Debug\net9.0\TaskSystem.pdb
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\obj\Debug\net9.0\TaskSystem.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\VSCode\desafio-sprint-1\TaskSystem\obj\Debug\net9.0\ref\TaskSystem.dll
