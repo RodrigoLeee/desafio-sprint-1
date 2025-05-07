@@ -2,6 +2,12 @@
 
 Um sistema de gerenciamento de tarefas flexível e escalável desenvolvido em C# usando padrões de projeto para facilitar a criação, acompanhamento e atualização de tarefas por indivíduos e times.
 
+## Vídeo
+
+[Link Youtube.](https://youtu.be/AkD87WrovDs)
+
+https://github.com/user-attachments/assets/317814ae-7066-4d2c-ba1b-224f4e2dd106
+
 ## Visão Geral
 
 Este projeto implementa um sistema de gerenciamento de tarefas com as seguintes funcionalidades:
